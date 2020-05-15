@@ -1,3 +1,4 @@
 { "updates": [
-  { "id": 1, "text": "project 3 is now out" }
-] }"
+  { "id": 1, "text": "an alexa skill is now intergrated with the website" },
+  { "id": 2, "text": "project 2 is now out" }
+] }
